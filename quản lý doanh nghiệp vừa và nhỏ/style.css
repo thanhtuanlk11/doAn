@@ -79,9 +79,8 @@ nav ul li a:hover ion-icon {
 }
 
 .content h2 {
-    font-size: 4.5em;
-    color: #1e90ff;
-    text-transform: uppercase;
+    font-size: 2em;
+    color: rgb(201, 15, 15);
 }
 
 nav .toggle_menu {
