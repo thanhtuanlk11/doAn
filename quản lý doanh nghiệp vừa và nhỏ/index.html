@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Menu</title>
+</head>
+
+<body>
+    <nav>
+        <div class="toggle_menu">
+            <ion-icon name="menu"></ion-icon>
+        </div>
+
+        <ul>
+            <li><a href="#">
+                Home
+                <ion-icon name="home"></ion-icon>
+            </a></li>
+            <li><a href="#">
+                Setting 
+                <ion-icon name="settings"></ion-icon>
+            </a></li>
+            <li><a href="#">
+                Profile
+                <ion-icon name="person"></ion-icon>
+            </a></li>
+            <li><a href="#">
+                Message
+                <ion-icon name="mail"></ion-icon>
+            </a></li>
+            <li><a href="#">
+                Login
+                <ion-icon name="key"></ion-icon>  
+            </a></li>
+        </ul>
+    </nav>
+    <section class="content">
+        <h2>Your Content</h2>
+    </section>
+</body>
+<script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
+<script>
+    const nav = document.querySelector('nav');
+    const toggle_menu = document.querySelector('.toggle_menu');
+    const content = document.querySelector('content');
+
+    toggle_menu.onclick = function() {
+        nav.classList.toggle('hide');
+        content.classList.toggle('expand');
+    }
+</script>
+
+</html>

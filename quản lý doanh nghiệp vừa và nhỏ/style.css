@@ -1,0 +1,114 @@
+@import url('index.html');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    position: relative;
+    width: 100%;
+    min-height: 100%;
+}
+
+nav {
+    position: fixed;
+    width: 250px;
+    height: 100%;
+    background-color: #f1f1f1;
+    display: flex;
+    align-items: center;
+    border-right: 1px solid rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+    transition: ease-in-out 0.5s;
+}
+
+nav.hide {
+    width: 0;
+}
+
+nav ul {
+    width: 100%;
+    list-style: none;
+    overflow: hidden;
+    padding: 10px;
+}
+
+nav ul li a {
+    padding: 20px;
+    width: 100%;
+    color: #1e90ff;
+    font-size: 1.2em;
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    transition: linear 0.5s;
+}
+
+nav ul li a ion-icon {
+    margin: 0 20px;
+    color: #1e90ff;
+    font-size: 1em;
+    transition: linear 0.2s;
+}
+
+
+/* hiệu ứng khi di chuyên chuột vào */
+
+nav ul li a:hover {
+    background: #1e90ff;
+    color: white;
+}
+
+nav ul li a:hover ion-icon {
+    color: white;
+}
+
+.content {
+    position: absolute;
+    top: 0;
+    left: 250px;
+    width: calc(100%-250px);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    transition: ease-in-out 0.5s;
+}
+
+.content h2 {
+    font-size: 4.5em;
+    color: #1e90ff;
+    text-transform: uppercase;
+}
+
+nav .toggle_menu {
+    position: absolute;
+    top: 20px;
+    right: -46px;
+    width: 45px;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #f1f1f1;
+    border-radius: 0 10px 10px 0;
+    cursor: pointer;
+    transition: linear 0.2s;
+}
+
+nav .toggle_menu ion-icon {
+    color: #1e90ff;
+    font-size: 1.5em;
+    transition: linear 0.2s;
+}
+
+nav .toggle_menu.hover {
+    background: #1e90ff;
+}
+
+nav .toggle_menu:hover ion-icon {
+    color: white;
+}
