@@ -256,67 +256,67 @@ C:\Users\NEIL\Downloads\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhan
 C:\Users\NEIL\Downloads\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CopyComplete
 C:\Users\NEIL\Downloads\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.dll
 C:\Users\NEIL\Downloads\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\QuanLyNhanSu.dll.config
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\QuanLyNhanSu.dll
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\QuanLyNhanSu.pdb
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Antlr3.Runtime.dll
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\BitPantry.StringWriters.dll
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\ClosedXML.dll
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\DocumentFormat.OpenXml.dll
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\EntityFramework.dll
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\EntityFramework.SqlServer.dll
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Excel.dll
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\ICSharpCode.SharpZipLib.dll
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.AspNet.Identity.Core.dll
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.AspNet.Identity.Owin.dll
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.dll
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.Host.SystemWeb.dll
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.Security.Cookies.dll
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.Security.dll
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.Security.Facebook.dll
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.Security.Google.dll
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.Security.OAuth.dll
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.Security.Twitter.dll
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Newtonsoft.Json.dll
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Owin.dll
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\System.Web.Helpers.dll
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\System.Web.Mvc.dll
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\System.Web.Optimization.dll
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\System.Web.Razor.dll
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\System.Web.WebPages.Deployment.dll
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\System.Web.WebPages.dll
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\System.Web.WebPages.Razor.dll
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\WebGrease.dll
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\ClosedXML.pdb
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\ClosedXML.xml
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Excel.pdb
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\System.Web.Helpers.xml
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\System.Web.Mvc.xml
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\System.Web.Optimization.xml
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\System.Web.Razor.xml
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\System.Web.WebPages.xml
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\System.Web.WebPages.Deployment.xml
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\System.Web.WebPages.Razor.xml
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Newtonsoft.Json.xml
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Antlr3.Runtime.pdb
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\EntityFramework.xml
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\EntityFramework.SqlServer.xml
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.AspNet.Identity.Core.xml
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.AspNet.Identity.Owin.xml
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.xml
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.Host.SystemWeb.xml
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.Security.xml
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.Security.Facebook.xml
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.Security.Cookies.xml
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.Security.OAuth.xml
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.Security.Google.xml
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.Security.Twitter.xml
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.AssemblyReference.cache
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.dll
-C:\Users\namng\OneDrive\Máy tính\đồ án\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\QuanLyNhanSu.dll.config
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\QuanLyNhanSu.dll
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\QuanLyNhanSu.pdb
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Antlr3.Runtime.dll
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\BitPantry.StringWriters.dll
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\ClosedXML.dll
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\DocumentFormat.OpenXml.dll
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\EntityFramework.dll
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\EntityFramework.SqlServer.dll
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Excel.dll
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.dll
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.Security.dll
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Newtonsoft.Json.dll
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Owin.dll
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\System.Web.Helpers.dll
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\System.Web.Mvc.dll
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\System.Web.Optimization.dll
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\System.Web.Razor.dll
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\System.Web.WebPages.Deployment.dll
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\System.Web.WebPages.dll
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\System.Web.WebPages.Razor.dll
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\WebGrease.dll
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\ClosedXML.pdb
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\ClosedXML.xml
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Excel.pdb
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\System.Web.Helpers.xml
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\System.Web.Mvc.xml
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\System.Web.Optimization.xml
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\System.Web.Razor.xml
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\System.Web.WebPages.xml
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\System.Web.WebPages.Deployment.xml
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\System.Web.WebPages.Razor.xml
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Newtonsoft.Json.xml
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Antlr3.Runtime.pdb
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\EntityFramework.xml
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\EntityFramework.SqlServer.xml
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.xml
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.Security.xml
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.AssemblyReference.cache
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.dll
+C:\Users\namng\OneDrive\Máy tính\DoAn_QLNS\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
