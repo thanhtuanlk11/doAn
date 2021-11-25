@@ -100,18 +100,18 @@
                         <td>@item.HoTen</td>
                         <td>@tenTrinhDo</td>
                         <td>@gioitinh</td>
-                        <td>
+                        @*<td>
                             @String.Format("{0:dd/MM/yyyy}", @item.HopDong.NgayBatDau)
                         @{
-                    DateTime ngaydau = Convert.ToDateTime(@item.HopDong.NgayBatDau);
-                    DateTime ngaysau = DateTime.Now.Date;
-                    TimeSpan Times = ngaysau - ngaydau;
+                                 DateTime ngaydau = Convert.ToDateTime(@item.HopDong.NgayBatDau);
+                                 DateTime ngaysau = DateTime.Now.Date;
+                                 TimeSpan Times = ngaysau - ngaydau;
                     
-                    int sonam = (int)Times.Days/365;
+                                  int sonam = (int)Times.Days/365;
                     
                         }
                        
-                    </td>
+                    </td>*@
                     <td>
                         <a class="btn btn-primary" href="@Url.Action("QuaTrinhCongTac", "QuanLyUser", new { @id = @item.MaNhanVien })"><i class="fa fa-address-book"></i>Quá trình công tác</a>
                         <a class="btn btn-info" href="@Url.Action("QuaTrinhHoc", "QuanLyUser", new { @id = @item.MaNhanVien})">Học vấn</a>
